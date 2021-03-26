@@ -6,6 +6,9 @@
 
 <body>
 	<?php
+	/*
+	 * This file will save received data to the "controllall" table
+	 */
 	   //session_start();
 	   	
 	   $servername = "cnktechlabscom.ipowermysql.com";
